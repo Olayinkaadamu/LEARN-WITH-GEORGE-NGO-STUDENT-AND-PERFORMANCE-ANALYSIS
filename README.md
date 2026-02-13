@@ -1,4 +1,5 @@
 # LEARN-WITH-GEORGE-NGO-ANANLYIS
+![] (NGO.webp)
 ## Introduction
 Learn With George NGO is a non-profit organisation operating in the education and digital skills training sector. The organisation provides training programs such as Power BI, Excel, and SQL across multiple locations.
 This Excel project focuses on analysing student enrollment, attendance rates, completion status, and assessment performance to help the NGO evaluate training effectiveness and improve student outcomes.
