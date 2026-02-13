@@ -65,8 +65,9 @@ IF([@[Avg_score]]>=79,"Distinction",IF([@[Avg_score]]>=60,"Pass","Fail"))
 ### Age Group
 - An Age Group column was created to group students into meaningful categories for demographic analysis.
 =IF([@Age]>=30,"Experienced",IF([@Age]>=25,"Mid Level", "Entry Level"))
+## Analysis
+![](Analysis.jpg)
 ## Dashboard Features
-
 ![](Excel-Dashboard.jpg)
 The interactive Excel dashboard includes:
 ### KPI Cards
