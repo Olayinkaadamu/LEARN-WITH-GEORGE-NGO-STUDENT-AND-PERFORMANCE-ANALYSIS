@@ -1,4 +1,4 @@
-# LEARN-WITH-GEORGE-NGO-ANANLYIS
+# LEARN-WITH-GEORGE-NGO-STUDENT-PERFORMANCE-AND-ATTENDANCE-ANALYSIS
 ![](NGO.webp)
 ## Introduction
 Learn With George NGO is a non-profit organisation operating in the education and digital skills training sector. The organisation provides training programs such as Power BI, Excel, and SQL across multiple locations.
